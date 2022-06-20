@@ -1,4 +1,4 @@
-module aim
+module github.com/alf1e/aim
 
 go 1.18
 
